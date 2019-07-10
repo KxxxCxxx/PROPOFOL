@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\413798347.index
+\propofo\src
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3835297065.index
+\propofo\src
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\442685059.index
+\propofo\src
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1014891299.index
+\ShoppingMall\src
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2471095682.index
+\propofo\src
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2202492502.index
+\propofo\src
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\613523856.index
+\propofo\src
+C:\Users\Anonymous\Desktop\sss\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\642222436.index
+\ShoppingMall\src
